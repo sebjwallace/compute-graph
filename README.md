@@ -1,0 +1,1 @@
+This is currently in a proof-of-concept stage. If all goes well then I will develop this repo to a consumable library.
